@@ -77,8 +77,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649881978077244/1200px-Chicago_Blackhawks_logo.png",
       "colors": [
         "#CF0A2C",
-        "#000000",
-        "#CF0A2C"
+        "#CF0A2C",
+        "#FFFFFF"
       ]
     },
     {
@@ -156,9 +156,9 @@
       "stadiumCapacity": 14703,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813452069679661066/panthers.png",
       "colors": [
-        "#FFFFFF",
+        "#041E42 ",
         "#C8102E",
-        "#FFFFFF"
+        "#D4A00F"
       ]
     },
     {
@@ -206,7 +206,7 @@
       "colors": [
         "#FFFFFF",
         "#AF1E2D",
-        "#FFFFFF"
+        "#192168"
       ]
     },
     {
@@ -284,9 +284,9 @@
       "stadiumCapacity": 17380,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652527812804648/1200px-Philadelphia_Flyers.png",
       "colors": [
-        "#F74902",
         "#FFFFFF",
-        "#F74902"
+        "#F74902",
+        "#000000"
       ]
     },
     {
@@ -479,7 +479,11 @@
     },
     {
       "key": "injuryRate",
-      "value": 0.00001
+      "value": 0.000082
+    },
+    {
+      "key": "pace",
+      "value": 93
     }
   ]
 }
