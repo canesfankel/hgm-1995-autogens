@@ -479,11 +479,15 @@
     },
     {
       "key": "injuryRate",
-      "value": 0.000082
+      "value": 0.000081
     },
     {
       "key": "pace",
       "value": 93
+    },
+    {
+      "key": "maxRosterSize",
+      "value": 27
     }
   ]
 }
