@@ -467,11 +467,11 @@
     },
     {
       "key": "maxContract",
-      "value": 5000
+      "value": 3000
     },
     {
       "key": "minContract",
-      "value": 400
+      "value": 300
     },
     {
       "key": "luxuryPayroll",
