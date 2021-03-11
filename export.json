@@ -266,7 +266,7 @@
       "pop": 17.5,
       "stadiumCapacity": 18006,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651609418825777/1200px-New_York_Rangers.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
         "#0038A8",
         "#CE1126",
@@ -385,7 +385,7 @@
       "pop": 4.4,
       "stadiumCapacity": 15726,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810685536045629460/1200px-Toronto_Maple_Leafs_2016_logo.png",
-      "jersey": "hockey3",
+      "jersey": "hockey2",
       "colors": [
         "#002366",
         "#002366",
